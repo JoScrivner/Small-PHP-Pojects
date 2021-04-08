@@ -1,0 +1,5 @@
+<b>PHP Calendar Introduction</b>
+The calendar extension contains functions that simplifies converting between different calendar formats.
+It is based on the Julian Day Count, which is a count of days starting from January 1st, 4713 B.C.
+Note: To convert between calendar formats, you must first convert to Julian Day Count, then to the calendar of your choice.
+Note: The Julian Day Count is not the same as the Julian Calendar!
